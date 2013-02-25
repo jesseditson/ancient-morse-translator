@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Dependencies
 
 var fs = require('fs')
@@ -24,7 +26,7 @@ if(!argv.length){
   console.log('section 3: an encoded message')
   console.log('Outputs a decoded message.')
   console.log('Usage:'.blue)
-  console.log('./index.js <inputfile>')
+  console.log('ancient-morse-translator <inputfile>')
   process.exit(0)
   return false
 }
