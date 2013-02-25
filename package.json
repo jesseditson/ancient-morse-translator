@@ -1,0 +1,18 @@
+{
+  "name": "ancient-morse-translator",
+  "version": "0.0.0",
+  "description": "Just a fun brain teaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jesseditson/ancient-morse-translator.git"
+  },
+  "author": "Jesse Ditson <jesse.ditson@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "colors": "~0.6.0-1"
+  }
+}
